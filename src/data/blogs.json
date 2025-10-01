@@ -1,0 +1,83 @@
+
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Understanding Criminal Litigation: A Comprehensive Guide",
+      "excerpt": "Learn about the complexities of criminal litigation and how VLP can help you navigate through criminal matters with expertise and precision.",
+      "content": "Criminal litigation involves representing clients in various types of criminal matters across all courts. At VLP, we have extensive experience in handling criminal cases with our team of efficient professionals and qualified advocates who excel in criminal and quasi-criminal nature cases...",
+      "image": "https://images.unsplash.com/photo-1589216532372-1c2c2c9e3e4e?w=600&h=400&fit=crop",
+      "author": "Legal Team",
+      "date": "2024-01-15",
+      "category": "Criminal Law",
+      "tags": ["criminal law", "litigation", "legal advice"],
+      "isRecent": true,
+      "isPopular": true
+    },
+    {
+      "id": "2",
+      "title": "RERA Compliance: What Property Buyers Need to Know",
+      "excerpt": "Everything you need to know about RERA compliance and how it protects property buyers' interests in real estate transactions.",
+      "content": "The Real Estate (Regulation and Development) Act, 2016 (RERA) is a landmark legislation aimed at regulating the real estate sector and protecting the interests of homebuyers...",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
+      "author": "Real Estate Team",
+      "date": "2024-01-10",
+      "category": "Real Estate",
+      "tags": ["RERA", "property law", "real estate"],
+      "isRecent": true,
+      "isPopular": false
+    },
+    {
+      "id": "3",
+      "title": "Consumer Rights: Your Guide to Filing Consumer Complaints",
+      "excerpt": "Learn how to protect your consumer rights and file complaints against defective products and deficient services.",
+      "content": "Consumer protection is a fundamental right, and our firm is deeply committed to protecting consumer rights and pursuing justice in cases of defective goods, deficient services, and unfair trade practices...",
+      "image": "https://images.unsplash.com/photo-1573164574511-73c773193279?w=600&h=400&fit=crop",
+      "author": "Consumer Law Team",
+      "date": "2024-01-05",
+      "category": "Consumer Law",
+      "tags": ["consumer rights", "complaints", "legal protection"],
+      "isRecent": false,
+      "isPopular": true
+    },
+    {
+      "id": "4",
+      "title": "Family Law: Navigating Divorce and Custody Matters",
+      "excerpt": "A sensitive guide to handling family disputes including divorce, custody, and maintenance matters with legal expertise.",
+      "content": "Family law matters require a sensitive, confidential, and empathetic approach. Our firm provides strategic legal counsel and robust representation in all facets of family law...",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&h=400&fit=crop",
+      "author": "Family Law Team",
+      "date": "2024-01-01",
+      "category": "Family Law",
+      "tags": ["family law", "divorce", "custody"],
+      "isRecent": false,
+      "isPopular": true
+    },
+    {
+      "id": "5",
+      "title": "Arbitration vs Litigation: Choosing the Right Path",
+      "excerpt": "Understanding the differences between arbitration and traditional litigation to make informed decisions for dispute resolution.",
+      "content": "When facing a legal dispute, choosing between arbitration and litigation can significantly impact the outcome, cost, and time involved in resolving your matter...",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&h=400&fit=crop",
+      "author": "Dispute Resolution Team",
+      "date": "2023-12-28",
+      "category": "Dispute Resolution",
+      "tags": ["arbitration", "litigation", "dispute resolution"],
+      "isRecent": true,
+      "isPopular": false
+    },
+    {
+      "id": "6",
+      "title": "Intellectual Property: Protecting Your Trademark and Copyright",
+      "excerpt": "Learn about trademark registration, copyright protection, and how to safeguard your intellectual property rights.",
+      "content": "Intellectual property protection is crucial in today's competitive business environment. Our firm provides comprehensive services for trademark filing, registration, and copyright protection...",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop",
+      "author": "IP Team",
+      "date": "2023-12-25",
+      "category": "Intellectual Property",
+      "tags": ["trademark", "copyright", "intellectual property"],
+      "isRecent": true,
+      "isPopular": true
+    }
+  ]
+}

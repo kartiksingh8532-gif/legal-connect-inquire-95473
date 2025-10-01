@@ -1,0 +1,287 @@
+
+{
+  "services": [
+    {
+      "id": "criminal-litigation",
+      "title": "Criminal Litigation",
+      "category": "LITIGATION",
+      "description": "VLP has extensive experience in representing clients in various types of Criminal matters, in all courts of Delhi NCR. The team comprises of efficient professionals and qualified advocates, who have excellent skills to handle cases of criminal and quasi criminal nature.",
+      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Banks/financial institutions frauds",
+          "items": [
+            "Cheque bounce/ Dishonour of cheques - Criminal Proceedings under Section 138 of the Negotiable Instruments Act, 1881",
+            "Economic Offence Wing Complaints for Misappropriation and Siphoning of Funds"
+          ]
+        },
+        {
+          "title": "Cyber-crimes",
+          "items": [
+            "Crimes under the Information Technology Act, 2000",
+            "Online Fraudulent Financial Transactions",
+            "Cyber Stalking"
+          ]
+        },
+        {
+          "title": "Bail",
+          "items": [
+            "Regular Bail",
+            "Anticipatory Bail",
+            "Appeal in High Court and Supreme Court"
+          ]
+        },
+        {
+          "title": "FIR & Complaints",
+          "items": [
+            "Drafting and Filing of Complaints before the Police or Magistrate/Court",
+            "Filing of First Information Reports (FIRs)",
+            "Quashing of FIRs and Criminal Complaints under Section 482 of the Code of Criminal Procedure"
+          ]
+        },
+        {
+          "title": "Appeal & Revision",
+          "items": [
+            "Criminal Appeal",
+            "Criminal Revision",
+            "Appeal before the Hon'ble High Courts and the Hon'ble Supreme Court of India"
+          ]
+        },
+        {
+          "title": "Marital Misconduct",
+          "items": [
+            "Criminal Matters related to Matrimonial Disputes i.e., Domestic violence, Dowry Death, Abatement to Suicide etc.",
+            "Maintenance Claims under Section 125 of Cr.P.C., 1973/ Section 144 of BNSS, 2023"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "civil-commercial-litigation",
+      "title": "Civil & Commercial Litigation",
+      "category": "LITIGATION",
+      "description": "At VLP, we bring comprehensive expertise in handling diverse civil disputes across all jurisdictions of Delhi NCR including High Court and District Courts. We have represented our clientele in a broad spectrum of civil disputes, focusing on strategic legal advice and robust representation.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Civil Litigation Services",
+          "items": [
+            "Pre-Institution Mediation Applications and Suit for recovery of money for commercial disputes",
+            "Declaratory Suits",
+            "Suit for Specific Performance",
+            "Suit for Injunction",
+            "Suit for Recovery of Money",
+            "Suit filed by bank for recovery of loan amount against borrower and his guarantors",
+            "Summary Suits",
+            "Suit for recovery of immovable property",
+            "Suit for Eviction",
+            "Suit for damages for breach of contract",
+            "Suit for defamation",
+            "Suit for Partition of the property",
+            "Execution Petitions",
+            "Disputes related to wills, codicils, letters of administration, and succession certificates"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "consumer-disputes",
+      "title": "Consumer Disputes",
+      "category": "LITIGATION",
+      "description": "Our firm is deeply committed towards protecting consumer rights and pursuing justice in cases of defective goods, deficient services, and unfair trade practices. The team works with precision to file and defend cases before Consumer Dispute Redressal Commissions at District, State, and National levels.",
+      "image": "https://images.unsplash.com/photo-1573164574511-73c773193279?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Consumer Protection Services",
+          "items": [
+            "Cases involving defective goods and products",
+            "Deficient services complaints",
+            "Unfair trade practices",
+            "Representation before District Consumer Forums",
+            "Representation before State Consumer Commissions",
+            "Representation before National Consumer Disputes Redressal Commission",
+            "Fair compensation and resolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "family-disputes",
+      "title": "Family Disputes",
+      "category": "LITIGATION",
+      "description": "With a sensitive, confidential, and empathetic approach, the firm provides strategic legal counsel and robust representation in all facets of family law. Our seasoned professionals offer unwavering support during what are often emotionally challenging proceedings.",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Family Law Services",
+          "items": [
+            "Handling divorce petitions (contested and mutual consent) under personal laws",
+            "Judicial separation and annulment of marriage proceedings",
+            "Restitution of conjugal rights",
+            "Filing and defending applications for interim and permanent maintenance/alimony under Section 125 Cr.P.C., Hindu Marriage Act, Domestic Violence Act, and other relevant statutes",
+            "Cases under the Protection of Women from Domestic Violence Act, 2005, seeking protection orders, residence orders, monetary relief, and custody orders",
+            "Advisory and representation in cases related to dowry prohibition laws",
+            "Legal assistance in adoption proceedings as per Indian laws and guidelines"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "debt-recovery",
+      "title": "Debt Recovery or Settlement",
+      "category": "LITIGATION",
+      "description": "Our dedicated team efficiently handles complex debt recovery cases for financial institutions, corporations, individual lenders, and creditors. With a deep understanding of banking, finance, and insolvency laws, we provide end-to-end support in enforcing recoveries.",
+      "image": "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Debt Recovery Services",
+          "items": [
+            "Filing and defending cases under the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (RDDBFI Act), before the Debt Recovery Tribunal (DRT) and Debt Recovery Appellate Tribunal (DRAT)",
+            "Proceedings under the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act)",
+            "Representation for corporate debtors, operational creditors, and financial creditors before the National Company Law Tribunal (NCLT) and National Company Law Appellate Tribunal (NCLAT) for Corporate Insolvency Resolution Process (CIRP)",
+            "Filing and pursuing civil suits for recovery of money, including summary suits under Order XXXVII of the Code of Civil Procedure, 1908",
+            "Initiating and defending criminal proceedings under Section 138 of the Negotiable Instruments Act, 1881, for cheque dishonour",
+            "Civil recovery suits based on dishonoured cheques",
+            "Advising and representing clients for loan or credit card settlements"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbitration",
+      "title": "Arbitration",
+      "category": "LITIGATION",
+      "description": "The firm strongly advocates for efficient and cost-effective resolution of disputes through various arbitration and ADR mechanisms. Our practice encompasses domestic arbitration proceedings, as well as mediation and conciliation.",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Arbitration Services",
+          "items": [
+            "Drafting and reviewing arbitration agreements and clauses in contracts",
+            "Advisory on the scope and enforceability of arbitration clauses",
+            "Comprehensive representation in arbitration proceedings",
+            "Preparation of statements of claim, statements of defense, counterclaims, and evidence",
+            "Filing of petitions under the Arbitration and Conciliation Act, 1996, for interim measures, appointment of arbitrators, termination of mandates, and challenging arbitral awards",
+            "Drafting and filing of petitions for enforcement of arbitral awards"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "real-estate-matters",
+      "title": "Real Estate Matters",
+      "category": "LITIGATION",
+      "description": "Our firm possesses specialized expertise in handling matters under the Real Estate (Regulation and Development) Act, 2016 (RERA), a landmark legislation aimed at regulating the real estate sector and protecting the interests of homebuyers.",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Representation for Promoters (Developers)",
+          "items": [
+            "Advising real estate developers and agents on the intricate RERA registration requirements for new and ongoing projects",
+            "Guidance on drafting RERA-compliant agreements for sale, allotment letters, and other project-related documentation",
+            "Advisory on project marketing, advertising norms, and escrow account management as mandated by RERA",
+            "Assisting in responding to show-cause notices issued by RERA authorities for non-compliance",
+            "Defense Against Complaints: Strategically defending developers against complaints filed by allottees",
+            "Project Extension Applications: Assisting developers in filing applications for extension of project completion timelines",
+            "Regulatory Penalty Mitigation: Advising on and representing in matters concerning penalties imposed by RERA authorities"
+          ]
+        },
+        {
+          "title": "Representation for Allottees (Homebuyers)",
+          "items": [
+            "Delayed Possession Claims: Filing and vigorously pursuing complaints before the respective State RERA Authorities",
+            "Refund of Money: Initiating proceedings for the refund of money paid along with interest",
+            "Defects Liability Period Issues: Addressing complaints related to structural defects or other quality issues",
+            "Non-Compliance with Specifications: Representing allottees when there's a deviation from the sanctioned plans",
+            "Unfair Trade Practices & Misrepresentation: Filing complaints against promoters for misleading advertisements"
+          ]
+        },
+        {
+          "title": "Appeals and Revisions",
+          "items": [
+            "Real Estate Appellate Tribunal (REAT): Filing and defending appeals before the Real Estate Appellate Tribunal",
+            "Higher Court Challenges: Further appeals and writ petitions before the Hon'ble High Courts",
+            "Execution of RERA Orders",
+            "Dispute Resolution under RERA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trademark-copyright",
+      "title": "Trademark & Copyright",
+      "category": "LITIGATION",
+      "description": "Comprehensive intellectual property services including trademark and copyright registration, protection, and enforcement to safeguard your intellectual assets.",
+      "image": "https://images.unsplash.com/photo-1589216532372-1c2c2c9e3e4e?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Trademark & Copyright Services",
+          "items": [
+            "Trademark filing",
+            "Trademark search",
+            "Trademark registration",
+            "Trademark objection & hearing",
+            "Copyright registration and protection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pro-bono-matters",
+      "title": "Pro Bono Matters",
+      "category": "LITIGATION",
+      "description": "At VLP, while the pursuit of legal excellence for our clients is paramount, we believe true excellence extends to serving the voiceless, challenging injustice, and strengthening the fabric of our society.",
+      "image": "https://images.unsplash.com/photo-1573164574511-73c773193279?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Pro Bono Services",
+          "items": [
+            "Legal aid for underprivileged individuals",
+            "Cases that might otherwise go unheard",
+            "Challenging injustice and strengthening society",
+            "Significant resources dedicated to pro bono work",
+            "Impacting real lives and shaping critical precedents"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "development-authorities",
+      "title": "Development Authorities Advisory",
+      "category": "NON-LITIGATION",
+      "description": "Advisory and representation for issues related to development authorities, helping clients navigate complex regulatory requirements and compliance matters.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Development Authority Services",
+          "items": [
+            "Advisory on development authority matters",
+            "Representation before development authorities",
+            "Regulatory compliance guidance",
+            "Project approval assistance",
+            "Dispute resolution with authorities"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "property-title-search",
+      "title": "Property Title Search & Due Diligence",
+      "category": "NON-LITIGATION",
+      "description": "Comprehensive property title verification and due diligence services to ensure clear ownership and legal compliance before property transactions.",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400&h=300&fit=crop",
+      "details": [
+        {
+          "title": "Property Services",
+          "items": [
+            "Property title search and verification",
+            "Due diligence for property transactions",
+            "Ownership verification",
+            "Legal compliance check",
+            "Risk assessment for property investments"
+          ]
+        }
+      ]
+    }
+  ]
+}
