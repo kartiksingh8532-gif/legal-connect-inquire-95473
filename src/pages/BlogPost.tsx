@@ -7,6 +7,17 @@ import { ChatWidget } from "@/components/ChatWidget";
 import { MessageCircle, Calendar, User, Tag, ArrowLeft, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import blogsData from "@/data/blogs.json";
+import umarKhalidImage from "@/assets/umar-khalid-blog.jpg";
+import consumerProtectionImage from "@/assets/consumer-protection-blog.jpg";
+import fundamentalRightsImage from "@/assets/fundamental-rights-blog.jpg";
+import corporateComplianceImage from "@/assets/corporate-compliance-blog.jpg";
+
+const imageMap: Record<string, string> = {
+  "/src/assets/umar-khalid-blog.jpg": umarKhalidImage,
+  "/src/assets/consumer-protection-blog.jpg": consumerProtectionImage,
+  "/src/assets/fundamental-rights-blog.jpg": fundamentalRightsImage,
+  "/src/assets/corporate-compliance-blog.jpg": corporateComplianceImage,
+};
 
 const BlogPost = () => {
   const [isChatOpen, setIsChatOpen] = useState(false);
@@ -78,7 +89,7 @@ const BlogPost = () => {
           <div className="max-w-4xl mx-auto">
             <div className="mb-12">
               <img
-                src={blog.image}
+                src={imageMap[blog.image] || blog.image}
                 alt={blog.title}
                 className="w-full h-96 object-cover rounded-lg shadow-2xl"
               />

@@ -26,6 +26,7 @@ export const Navigation = () => {
     { name: "Team VLP", href: "/team" },
     { name: "VLP Services", href: "/services", isDropdown: true },
     { name: "Blog", href: "/blog" },
+    { name: "Gallery", href: "/gallery" },
     { name: "Resources", href: "/resources" },
     { name: "Contact VLP", href: "/contact" },
   ];

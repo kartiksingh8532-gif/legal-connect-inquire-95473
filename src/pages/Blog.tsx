@@ -1,14 +1,23 @@
-
-import { useState, useEffect } from "react";
+import { useEffect } from "react";
 import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { ContactButtons } from "@/components/ContactButtons";
 import { Link } from "react-router-dom";
 import blogsData from "@/data/blogs.json";
+import umarKhalidImage from "@/assets/umar-khalid-blog.jpg";
+import consumerProtectionImage from "@/assets/consumer-protection-blog.jpg";
+import fundamentalRightsImage from "@/assets/fundamental-rights-blog.jpg";
+import corporateComplianceImage from "@/assets/corporate-compliance-blog.jpg";
+
+const imageMap: Record<string, string> = {
+  "/src/assets/umar-khalid-blog.jpg": umarKhalidImage,
+  "/src/assets/consumer-protection-blog.jpg": consumerProtectionImage,
+  "/src/assets/fundamental-rights-blog.jpg": fundamentalRightsImage,
+  "/src/assets/corporate-compliance-blog.jpg": corporateComplianceImage,
+};
 
 const Blog = () => {
   useEffect(() => {
-    // Scroll to top when page loads
     window.scrollTo(0, 0);
   }, []);
 
@@ -33,7 +42,7 @@ const Blog = () => {
             {blogsData.blogs.map((blog) => (
               <div key={blog.id} className="bg-white rounded-lg shadow-lg overflow-hidden border-2 border-gray-200 hover:border-amber-600 transition-colors">
                 <img 
-                  src={blog.image} 
+                  src={imageMap[blog.image] || blog.image}
                   alt={blog.title}
                   className="w-full h-48 object-cover"
                 />
