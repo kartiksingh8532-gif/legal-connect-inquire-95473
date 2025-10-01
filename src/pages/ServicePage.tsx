@@ -7,6 +7,34 @@ import { ChatWidget } from "@/components/ChatWidget";
 import { MessageCircle, Phone, ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import servicesData from "@/data/services.json";
+import criminalLitigationImg from "@/assets/criminal-litigation-service.jpg";
+import civilCommercialImg from "@/assets/civil-commercial-service.jpg";
+import consumerDisputesImg from "@/assets/consumer-disputes-service.jpg";
+import familyDisputesImg from "@/assets/family-disputes-service.jpg";
+import debtRecoveryImg from "@/assets/debt-recovery-service.jpg";
+import arbitrationImg from "@/assets/arbitration-service.jpg";
+import realEstateImg from "@/assets/real-estate-service.jpg";
+import trademarkCopyrightImg from "@/assets/trademark-copyright-service.jpg";
+import proBonoImg from "@/assets/pro-bono-service.jpg";
+import developmentAuthorityImg from "@/assets/development-authority-service.jpg";
+import propertyTitleImg from "@/assets/property-title-service.jpg";
+
+const getServiceImage = (id: string) => {
+  const imageMap: { [key: string]: string } = {
+    'criminal-litigation': criminalLitigationImg,
+    'civil-commercial-litigation': civilCommercialImg,
+    'consumer-disputes': consumerDisputesImg,
+    'family-disputes': familyDisputesImg,
+    'debt-recovery': debtRecoveryImg,
+    'arbitration': arbitrationImg,
+    'real-estate-matters': realEstateImg,
+    'trademark-copyright': trademarkCopyrightImg,
+    'pro-bono-matters': proBonoImg,
+    'development-authorities': developmentAuthorityImg,
+    'property-title-search': propertyTitleImg,
+  };
+  return imageMap[id] || criminalLitigationImg;
+};
 
 const ServicePage = () => {
   const { id } = useParams();
@@ -69,7 +97,7 @@ const ServicePage = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-start">
             <div>
               <img
-                src={service.image}
+                src={getServiceImage(service.id)}
                 alt={service.title}
                 className="w-full h-64 object-cover rounded-lg shadow-lg mb-8"
               />

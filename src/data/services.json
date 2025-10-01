@@ -6,7 +6,7 @@
       "title": "Criminal Litigation",
       "category": "LITIGATION",
       "description": "VLP has extensive experience in representing clients in various types of Criminal matters, in all courts of Delhi NCR. The team comprises of efficient professionals and qualified advocates, who have excellent skills to handle cases of criminal and quasi criminal nature.",
-      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=400&h=300&fit=crop",
+      "image": "/src/assets/criminal-litigation-service.jpg",
       "details": [
         {
           "title": "Banks/financial institutions frauds",
@@ -61,7 +61,7 @@
       "title": "Civil & Commercial Litigation",
       "category": "LITIGATION",
       "description": "At VLP, we bring comprehensive expertise in handling diverse civil disputes across all jurisdictions of Delhi NCR including High Court and District Courts. We have represented our clientele in a broad spectrum of civil disputes, focusing on strategic legal advice and robust representation.",
-      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop",
+      "image": "/src/assets/civil-commercial-service.jpg",
       "details": [
         {
           "title": "Civil Litigation Services",
@@ -89,7 +89,7 @@
       "title": "Consumer Disputes",
       "category": "LITIGATION",
       "description": "Our firm is deeply committed towards protecting consumer rights and pursuing justice in cases of defective goods, deficient services, and unfair trade practices. The team works with precision to file and defend cases before Consumer Dispute Redressal Commissions at District, State, and National levels.",
-      "image": "https://images.unsplash.com/photo-1573164574511-73c773193279?w=400&h=300&fit=crop",
+      "image": "/src/assets/consumer-disputes-service.jpg",
       "details": [
         {
           "title": "Consumer Protection Services",
@@ -110,7 +110,7 @@
       "title": "Family Disputes",
       "category": "LITIGATION",
       "description": "With a sensitive, confidential, and empathetic approach, the firm provides strategic legal counsel and robust representation in all facets of family law. Our seasoned professionals offer unwavering support during what are often emotionally challenging proceedings.",
-      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=400&h=300&fit=crop",
+      "image": "/src/assets/family-disputes-service.jpg",
       "details": [
         {
           "title": "Family Law Services",
@@ -131,7 +131,7 @@
       "title": "Debt Recovery or Settlement",
       "category": "LITIGATION",
       "description": "Our dedicated team efficiently handles complex debt recovery cases for financial institutions, corporations, individual lenders, and creditors. With a deep understanding of banking, finance, and insolvency laws, we provide end-to-end support in enforcing recoveries.",
-      "image": "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?w=400&h=300&fit=crop",
+      "image": "/src/assets/debt-recovery-service.jpg",
       "details": [
         {
           "title": "Debt Recovery Services",
@@ -152,7 +152,7 @@
       "title": "Arbitration",
       "category": "LITIGATION",
       "description": "The firm strongly advocates for efficient and cost-effective resolution of disputes through various arbitration and ADR mechanisms. Our practice encompasses domestic arbitration proceedings, as well as mediation and conciliation.",
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=400&h=300&fit=crop",
+      "image": "/src/assets/arbitration-service.jpg",
       "details": [
         {
           "title": "Arbitration Services",
@@ -172,7 +172,7 @@
       "title": "Real Estate Matters",
       "category": "LITIGATION",
       "description": "Our firm possesses specialized expertise in handling matters under the Real Estate (Regulation and Development) Act, 2016 (RERA), a landmark legislation aimed at regulating the real estate sector and protecting the interests of homebuyers.",
-      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400&h=300&fit=crop",
+      "image": "/src/assets/real-estate-service.jpg",
       "details": [
         {
           "title": "Representation for Promoters (Developers)",
@@ -212,7 +212,7 @@
       "title": "Trademark & Copyright",
       "category": "LITIGATION",
       "description": "Comprehensive intellectual property services including trademark and copyright registration, protection, and enforcement to safeguard your intellectual assets.",
-      "image": "https://images.unsplash.com/photo-1589216532372-1c2c2c9e3e4e?w=400&h=300&fit=crop",
+      "image": "/src/assets/trademark-copyright-service.jpg",
       "details": [
         {
           "title": "Trademark & Copyright Services",
@@ -231,7 +231,7 @@
       "title": "Pro Bono Matters",
       "category": "LITIGATION",
       "description": "At VLP, while the pursuit of legal excellence for our clients is paramount, we believe true excellence extends to serving the voiceless, challenging injustice, and strengthening the fabric of our society.",
-      "image": "https://images.unsplash.com/photo-1573164574511-73c773193279?w=400&h=300&fit=crop",
+      "image": "/src/assets/pro-bono-service.jpg",
       "details": [
         {
           "title": "Pro Bono Services",
@@ -250,7 +250,7 @@
       "title": "Development Authorities Advisory",
       "category": "NON-LITIGATION",
       "description": "Advisory and representation for issues related to development authorities, helping clients navigate complex regulatory requirements and compliance matters.",
-      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop",
+      "image": "/src/assets/development-authority-service.jpg",
       "details": [
         {
           "title": "Development Authority Services",
@@ -269,7 +269,7 @@
       "title": "Property Title Search & Due Diligence",
       "category": "NON-LITIGATION",
       "description": "Comprehensive property title verification and due diligence services to ensure clear ownership and legal compliance before property transactions.",
-      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400&h=300&fit=crop",
+      "image": "/src/assets/property-title-service.jpg",
       "details": [
         {
           "title": "Property Services",

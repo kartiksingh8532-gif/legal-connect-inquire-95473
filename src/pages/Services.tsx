@@ -8,6 +8,17 @@ import { MessageCircle, Phone, Scale, Building, Users, Shield, Gavel, HandCoins,
 import { Button } from "@/components/ui/button";
 import { useNavigate } from "react-router-dom";
 import servicesData from "@/data/services.json";
+import criminalLitigationImg from "@/assets/criminal-litigation-service.jpg";
+import civilCommercialImg from "@/assets/civil-commercial-service.jpg";
+import consumerDisputesImg from "@/assets/consumer-disputes-service.jpg";
+import familyDisputesImg from "@/assets/family-disputes-service.jpg";
+import debtRecoveryImg from "@/assets/debt-recovery-service.jpg";
+import arbitrationImg from "@/assets/arbitration-service.jpg";
+import realEstateImg from "@/assets/real-estate-service.jpg";
+import trademarkCopyrightImg from "@/assets/trademark-copyright-service.jpg";
+import proBonoImg from "@/assets/pro-bono-service.jpg";
+import developmentAuthorityImg from "@/assets/development-authority-service.jpg";
+import propertyTitleImg from "@/assets/property-title-service.jpg";
 
 const Services = () => {
   const [isChatOpen, setIsChatOpen] = useState(false);
@@ -50,6 +61,23 @@ const Services = () => {
     }
   };
 
+  const getServiceImage = (id: string) => {
+    const imageMap: { [key: string]: string } = {
+      'criminal-litigation': criminalLitigationImg,
+      'civil-commercial-litigation': civilCommercialImg,
+      'consumer-disputes': consumerDisputesImg,
+      'family-disputes': familyDisputesImg,
+      'debt-recovery': debtRecoveryImg,
+      'arbitration': arbitrationImg,
+      'real-estate-matters': realEstateImg,
+      'trademark-copyright': trademarkCopyrightImg,
+      'pro-bono-matters': proBonoImg,
+      'development-authorities': developmentAuthorityImg,
+      'property-title-search': propertyTitleImg,
+    };
+    return imageMap[id] || criminalLitigationImg;
+  };
+
   return (
     <div className="min-h-screen bg-white">
       <Navigation />
@@ -78,7 +106,7 @@ const Services = () => {
                 >
                   <div className="h-48 overflow-hidden">
                     <img
-                      src={service.image}
+                      src={getServiceImage(service.id)}
                       alt={service.title}
                       className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                     />
